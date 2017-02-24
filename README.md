@@ -73,6 +73,7 @@ The directory structure generated using `gulp-webpack-es6` is organized so that 
 ├── gulpfile.babel.js
 ├── package.json
 └── webpack.config.js
+└── webpack_dev.config.js
 ```
 
 ## Resources
